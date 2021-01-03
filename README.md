@@ -1,5 +1,5 @@
 ### Welcome Dev's 👋
 
-- 🔭 I’m currently working on ... Ultrasec.cf
-- 🌱 I’m currently learning ... C#
-- 📫 How to reach me: ... Discord: ChrisLad#8080
+- 🔭 I’m currently working on ... Pentesting
+- 🌱 I’m currently learning ... Python Net-tools
+- 📫 How to reach me: ... Discord: ChrisLad#1194
